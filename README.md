@@ -5,7 +5,7 @@ This repo contains resources for the SRM-Kzilla Club Recruitment Task for Fronte
 ## Links
 
 * [Deployed app (live)](https://data-dashboard-harish201105.netlify.app/)
-* [Github Repo ] (https://github.com/harish201105/financial-data-dashboard)
+* Github Repo: (https://github.com/harish201105/financial-data-dashboard)
 
 
 

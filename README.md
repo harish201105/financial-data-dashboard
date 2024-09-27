@@ -1,4 +1,4 @@
-# Financial Data Dashboard with React.js and Chart.js (Kendo)
+# Financial Data Dashboard with React.js and Chart.js (Kendo-UI)
 
 This repo contains resources for the SRM-Kzilla Club Recruitment Task for Frontend Dev
 
